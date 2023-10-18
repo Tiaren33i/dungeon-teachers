@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Game_Button_Elements_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3046
+        width: 955
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d89db65fe2a84283ef0ed3f6bf830
+      internalID: 834222783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_1
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 3046
+        width: 955
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74397b58fe8dc274bbcf33fff04b97b2
+      internalID: -1704277796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_2
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 3086
+        width: 929
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29512cf41c6186547a51b52747f9a2fd
+      internalID: -1190749540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_3
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3086
+        width: 996
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb20a6a25791647a8ad25d380129be
+      internalID: -1877236116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2117
+        width: 969
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa093d852d46f4f9733ed06000fabb
+      internalID: -749008300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_5
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 2077
+        width: 929
+        height: 942
+      alignment: 9
+      pivot: {x: 0.48551214, y: 0.5596867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f064899603dcad4caee900bd0f3b6ee
+      internalID: -823774534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_6
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 2077
+        width: 915
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c013eee1874e414f911cfc6800003e0
+      internalID: 438415370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_7
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2124
+        width: 987
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a67e9d563797d40a54bfb082f759a0
+      internalID: -845343648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1119
+        width: 1067
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7e5a9a4ecb92468d58628517c7e0d
+      internalID: 1666815868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_9
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1146
+        width: 987
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43077e9020baeb44180b2773ebeafca3
+      internalID: 569203741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +342,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game_Button_Elements_0: 834222783
+      Game_Button_Elements_1: -1704277796
+      Game_Button_Elements_2: -1190749540
+      Game_Button_Elements_3: -1877236116
+      Game_Button_Elements_4: -749008300
+      Game_Button_Elements_5: -823774534
+      Game_Button_Elements_6: 438415370
+      Game_Button_Elements_7: -845343648
+      Game_Button_Elements_8: 1666815868
+      Game_Button_Elements_9: 569203741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
