@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8235704383668189776}
   - component: {fileID: 3497975069087563861}
-  - component: {fileID: 245219328750678503}
+  - component: {fileID: -5294061995052661097}
   m_Layer: 0
   m_Name: Player
   m_TagString: shar
@@ -86,7 +86,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &245219328750678503
+--- !u!114 &-5294061995052661097
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -95,15 +95,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 960755791990778143}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 085e34c0ebef93d48b8c6e3bd77ad62a, type: 3}
+  m_Script: {fileID: 11500000, guid: ec470a6560c600344bb590e9939caf5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 0
+  moveSpeed: 3.1
   maxHelth: 0
-  shootInterval: 4
-  bull: {fileID: 0}
-  shotSpeed: 0
-  boot_List: []
 --- !u!1 &8687026451770972211
 GameObject:
   m_ObjectHideFlags: 0

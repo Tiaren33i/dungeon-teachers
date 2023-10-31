@@ -1,10 +1,11 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.TextCore.Text;
 
-public class bamage : MonoBehaviour
+public class bamage : parametor
 {
     [SerializeField] private float damage;
     private void OnTriggerEnter2D(Collider2D collision)
@@ -17,6 +18,6 @@ public class bamage : MonoBehaviour
         }
 
     }
+ 
 
-   
 }

@@ -15,9 +15,9 @@ public class parametor : MonoBehaviour
     }
     public void TakeDamege(float damege)
     {
-        Helth-=damege;
+        Helth -= damege;
         Helth = Mathf.Clamp(Helth, 0, maxHelth);
-        Debug.Log(" " + damege + " " + Helth+" "+name);
+        Debug.Log(" " + damege + " " + Helth + " " + name);
         if (isDed)
         {
             gameObject.SetActive(false);

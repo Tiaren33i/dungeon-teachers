@@ -102,6 +102,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 2
   maxHelth: 1
+  agro: 3
 --- !u!114 &967396336008245088
 MonoBehaviour:
   m_ObjectHideFlags: 0
